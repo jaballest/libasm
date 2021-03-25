@@ -2,7 +2,7 @@
 The aim of this project is to get familiar with assembly language.
 
 ## Content
-The project consists in 6 .s functions, a header file, a simple main to check all these functions and a Makefile to compil
+The project consists of 6 .s functions, a header file, a simple main to check all these functions and a Makefile to compil
 e them.
 
 ## How to test it?
@@ -10,7 +10,7 @@ You can start by cloning this repository:
 ```bash
 git clone https://github.com/jaballest/libasm.git libasm
 ```
-To compile thisd project you first have to make sure you have all dependencies installed:
+To compile this project you first have to make sure you have all dependencies installed:
 ```bash
 apt update && apt install make nasm binutils clang
 ```
