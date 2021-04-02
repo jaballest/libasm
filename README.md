@@ -1,3 +1,4 @@
+![Passed 100/100](https://img.shields.io/badge/PASSED-100%2F100-green?style=for-the-badge&logo=42)
 # libasm
 The aim of this project is to get familiar with assembly language.
 
