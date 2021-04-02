@@ -8,7 +8,7 @@ e them.
 ## How to test it?
 You can start by cloning this repository:
 ```bash
-git clone https://github.com/xpartano/libasm.git libasm
+git clone https://github.com/xpartano/libasm.git libasm && cd libasm
 ```
 To compile this project you first have to make sure you have all dependencies installed:
 ```bash
